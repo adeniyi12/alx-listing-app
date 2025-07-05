@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Project Title: ALX Listing App
+
+# Project Description
+This project is a clone of the Airbnb website. It is a full-stack application built with Next.js, TypeScript, and Tailwind CSS.
+
+# Project Structure
+The project is structured as follows:
+- Components: The components folder contains all the reusable components used in the application.
+- Pages: The pages folder contains all the pages used in the application.
+- Public: The public folder contains all the static files used in the application.
+- Styles: The styles folder contains all the styles used in the application.
+- Utils: The utils folder contains all the utility functions used in the application.
 
 ## Getting Started
 
